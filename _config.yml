@@ -1,0 +1,22 @@
+title:              Reshape Mind
+email:              ridhisharma@reshapemind.com
+description:        A Blog Theme by Start Bootstrap
+author:             Ridhi Sharma
+baseurl:            "/reshapemind.com"
+url:                "https://startbootstrap.github.io"
+
+# Social Profiles
+#twitter_username:   SBootstrap
+#github_username:    StartBootstrap
+#facebook_username:  StartBootstrap
+instagram_username:  reshapemind
+linkedin_username:
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
