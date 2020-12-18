@@ -3,8 +3,6 @@ layout: page
 background: '/img/bg-training.png'
 ---
 
-# Trainings
-
 We provide 360-degree training solutions from entry-level to senior management. We impart highly engaging corporate training and workshops with a clear focus on results while developing a holistic learning experience for the participants.
 
 ### Gender Sensitization
