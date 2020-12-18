@@ -19,6 +19,11 @@
     background-color: darken($primary, 7.5) !important;
     border-color: darken($primary, 7.5) !important;
   }
+  &:disabled {
+    color: $white;
+    background-color: darken($gray-900, 7.5) !important;
+    border-color: darken($gray-900, 7.5) !important;
+  }
 }
 
 .btn-lg {

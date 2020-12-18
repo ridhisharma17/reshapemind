@@ -14,7 +14,7 @@
     resize: none;
     border: none;
     border-radius: 0;
-    background: none;
+    background: $gray-100;
     box-shadow: none !important;
     @include serif-font;
     &::-webkit-input-placeholder {

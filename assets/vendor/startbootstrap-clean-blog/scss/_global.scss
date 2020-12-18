@@ -1,7 +1,8 @@
 // Global styling for this template
 body {
   font-size: 20px;
-  color: $gray-900;
+  background-color: $gray-100;
+  color:$gray-900;
   @include serif-font;
 }
 
@@ -55,23 +56,23 @@ blockquote {
 }
 
 ::-moz-selection {
-  color: $white;
+  color: $gray-100;
   background: $primary;
   text-shadow: none;
 }
 
 ::selection {
-  color: $white;
+  color: $gray-100;
   background: $primary;
   text-shadow: none;
 }
 
 img::selection {
-  color: $white;
+  color: $gray-100;
   background: transparent;
 }
 
 img::-moz-selection {
-  color: $white;
+  color: $gray-100;
   background: transparent;
 }

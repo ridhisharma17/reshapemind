@@ -1,16 +1,13 @@
 title:              Reshape Mind
-email:              ridhisharma@reshapemind.com
-description:        A Blog Theme by Start Bootstrap
+email:              "ridhisharma@reshapemind.com"
 author:             Ridhi Sharma
-baseurl:            "/reshapemind.com"
-url:                "https://startbootstrap.github.io"
+baseurl:            "/"
+url:                "http://reshapemind.com"
+form_id:            "f/xwkwrndk"
 
 # Social Profiles
-#twitter_username:   SBootstrap
-#github_username:    StartBootstrap
-#facebook_username:  StartBootstrap
-instagram_username:  reshapemind
-linkedin_username:
+instagram_username: reshapemind
+linkedin_username: reshapemind
 
 # Build settings
 markdown:           kramdown
