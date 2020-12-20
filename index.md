@@ -3,24 +3,27 @@ layout: home
 background: '/img/bg-index.png'
 ---
 
-Reshape Mind is an establishment committed to impact the business and organizational culture positively to increase the profits ,creativity, employee engagement through 360 degree training solutions from entry- level to senior management. It imparts highly engaging corporate trainings and workshops with a clear focus on results while developing holistic learning for the participants.
+We are an establishment committed to positively impact the businesses and organizational culture by improving creativity and engagement of employees thereby increasing profits through our 360 degree training solutions from entry level to senior management. It imparts highly engaging corporate trainings and workshops with a clear focus on results while developing holistic learning for the participants.
 
 ## Mission
-
-Reshape Mind mission is to improve business productivity and enhance leadership development across the organization.
-- To offer differentiated learning & development services that add value to our clients.
-- To build long term partnerships with our clients by being centred around their needs and delivering quality work in the most efficient manner, every time.
-- To invest in building sustainable relationships with our employees as well as our partners, business associates and vendors.
+We are on a mission to improve business productivity and enhance leadership development across entire management of the organization.  
+Key goals include:
+- To offer differentiated learning and development services that add value to our clients
+- To build long term partnerships with our clients by being centred around their needs and delivering quality work in the most efficient manner, each and  every time
+- To invest in building sustainable relationships with our employees as well as our partners, business associates and vendors  
 
 ## Vision
-
-Impacting life by creating limitless opportunities.
-Empowering businesses and individuals to make informed decisions .
-- To be the most trusted learning & development partner by our clients.
-- To be recognised among the great places to work.
+We are working in line with our vision to impact every individual life by opening their horizon for limitless opportunities through our varied training programs. We have curated our training programs to empower businesses and individuals to make better informed decisions and explore the works wih new eyes.  
+Keys areas include:
+- To be the most trusted learning and development partner by our clients.
+- To be recognized among the great places to work 
 
 ## Values
+We believe in
 - Respect
 - Ethical practices
-- Prejudice free
-- Efficacy
+- Free from Prejudice
+- Efficacy  
+
+
+and will always endeavour to upload these values to the highest standards in delivering to our clients. 
