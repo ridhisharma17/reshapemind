@@ -3,7 +3,8 @@ layout: home
 background: '/img/bg-index.png'
 ---
 
-We are an establishment committed to positively impact the businesses and organizational culture by improving creativity and engagement of employees thereby increasing profits through our 360 degree training solutions from entry level to senior management. It imparts highly engaging corporate trainings and workshops with a clear focus on results while developing holistic learning for the participants.
+We are an ISO 9001:2015 certified establishment committed to positively impact the businesses and organizational culture by improving creativity and engagement of employees thereby increasing profits through our 360 degree training solutions from entry level to senior management.  
+Our programs impart highly engaging corporate trainings and workshops with a clear focus on results while developing holistic learning for the participants.
 
 ## Mission
 We are on a mission to improve business productivity and enhance leadership development across entire management of the organization.  
