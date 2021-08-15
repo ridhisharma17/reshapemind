@@ -1,6 +1,21 @@
 ---
 title: "Happiness Workshop"
 ---
-This exciting 3 weeks journey (one session each week) of **Happiness Course** will take you to the next level of happiness and growth by equipping you with the methods and tools of **Happiness Blueprint**.<br>
-This course is designed to help you learn and experience some of the finest research conducted in the field of positive psychology. Our program is based on experiential activities which help participants not just understand but more importantly experience the *Happiness* from within.<br>
-This evidence based experiential course is all that you need to witness your deepest self and get inspiration.
+Its a 2 days extensive hands-on workshop designed for anyone and everyone to enhance their personal happiness and equipping them with tools to spread this happiness to others. This interactive, experiential and highly impactful workshop is formulated on the basis of research evidence and feedback.
+
+**What will you explore ?**
+- You are beyond your identities 
+- You are Whole and Complete 
+- How to be in the present moment
+- Perception is projection 
+- Operation from Lack or Abundance 
+- Identification of patterns 
+- What does Happiness feel like 
+- Major factor impacting relationships 
+- Purpose of goal
+- Experience Gratitude, Compassion & Empathy
+- Emotional Signature
+- All emotions are important 
+- Release the Trash
+- Personal Happiness blueprint 
+- Follow up activities for 21 days
