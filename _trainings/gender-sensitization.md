@@ -1,5 +1,6 @@
 ---
 title: "Gender Sensitization"
+order: 4
 ---
 
 Main focus of this training and workshop session is to sensitize employees on **Gender** related **issues** by informing and guiding employees about the appropriate ways of addressing and interacting with other colleagues, clients and partners.  

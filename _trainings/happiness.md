@@ -1,21 +1,18 @@
 ---
-title: "Happiness Workshop"
+title: "Happiness at Workplace"
+order: 0
 ---
-Its a 2 days extensive hands-on workshop designed for anyone and everyone to enhance their personal happiness and equipping them with tools to spread this happiness to others. This interactive, experiential and highly impactful workshop is formulated on the basis of research evidence and feedback.
+One of misconceptions in several organisations is to mistakenly understand *‘Fun’* in their environment as a definition of a happy culture. However, this is not really the case. 
+<br>
+Happiness and Workplace course is all about building sustainable happiness initiatives that are impactful, measurable and strategically aligned to your company's culture.
+<br>
+This is an opportunity for you to dive deeper into the dynamics of the science of happiness and learn how to create sustainable principles that will lead to igniting passion, growth and success at your workplace.
 
-**What will you explore ?**
-- You are beyond your identities 
-- You are Whole and Complete 
-- How to be in the present moment
-- Perception is projection 
-- Operation from Lack or Abundance 
-- Identification of patterns 
-- What does Happiness feel like 
-- Major factor impacting relationships 
-- Purpose of goal
-- Experience Gratitude, Compassion & Empathy
-- Emotional Signature
-- All emotions are important 
-- Release the Trash
-- Personal Happiness blueprint 
-- Follow up activities for 21 days
+**Benefits of Happiness at Workplace**
+1.	300% more innovation (HBR)
+2.	37% increases in sales (Shawn Achor)
+3.	31% increase in productivity (Shawn Achor)
+4.	125% less burnout (HBR)
+5.	66% fewer sick leaves (Forbes)
+
+Time to build a culture of Meaning, Compassion and Growth at Work

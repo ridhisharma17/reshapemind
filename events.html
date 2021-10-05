@@ -3,20 +3,20 @@ layout: page
 background: '/img/bg-calendar.png'
 ---
 
-{% for post in site.events %}
+{% assign events = site.events | sort: "order" %}
+{% for post in events %}
 
 <article class="post-preview">
   <a><h5 class="post-title">{{ post.title }}</h5></a>
-  <p class="post-meta">To be hosted by
+  <p class="post-meta">Hosted by
     <b>{% if post.author %}
     {{ post.author }}
     {% else %}
     {{ site.author }}
     {% endif %}</b>
-    at <b>{{ post.date | date: '%H:%M' }}</b>
     on <b>{{ post.date | date: '%B %d, %Y' }}</b>
   </p>
-    {{ post.content }}
+    <small>{{ post.content }}</small>
     <hr>
 
 </article>

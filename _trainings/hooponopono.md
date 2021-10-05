@@ -1,5 +1,6 @@
 ---
 title: "Ho’oponopono"
+order: 3
 ---
 
 Hoʻoponopono is a Hawaiian practice of reconciliation and forgiveness. Knowing who we are, our own **God / Higher Power** given talents and gifts we were born with and not the ones we acquired or were told wer were “supposed” to have, is a surefire way to attract *success* in all we do. That’s what Ho’oponopono teaches. The cleansing tools can be applied for **professional** and **personal growth**.  

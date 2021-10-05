@@ -1,5 +1,6 @@
 ---
 title: "Goal Setting (Applied NLP)"
+order: 1
 ---
 
 *We all set some new year’s resolutions. Don't we ? But how many of those goals we achieve?*<br>

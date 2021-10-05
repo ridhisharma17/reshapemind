@@ -2,7 +2,6 @@
 layout: home
 background: '/img/bg-index.png'
 ---
-
 We are an **ISO 9001:2015** certified establishment committed to positively impact individuals, groups, businesses and organizational culture by improving the quality of happiness, productivity, compassion and focus. We have various customised training solutions for everyone.<br>
 Our programs impart highly engaging trainings, workshops, individual sessions with clear focus on results while developing holistic learning for the participants.
 
@@ -26,3 +25,15 @@ We pledge to:
 - practice work ethically within a professional code of conduct
 
 **We aim to be the trusted training provider and coaching services providers.**
+
+# Testimonials
+
+{% assign testimonials = site.testimonials | sort: "order" %}
+{% for post in testimonials %}
+  <article class="post-preview">
+  <a><b>{{ post.author }} | {{ post.designation }} | {{ post.college }}</b></a>
+  <small>{{ post.content }}</small>
+  <p class="post-meta">Attended <b>{{ post.workshop }}</b></p>
+  <hr>
+  </article>
+{% endfor %}

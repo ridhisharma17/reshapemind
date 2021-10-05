@@ -7,10 +7,11 @@ We provide 360° customised training programs to businesses, organizations, grou
 <br>
 We provide trainings and  workshops in the following fields:
 
-{% for post in site.trainings %}
+{% assign trainings = site.trainings | sort: "order" %}
+{% for post in trainings %}
 <article class="post-preview">
   <a><h5 class="post-title">{{ post.title }}</h5></a>
-    {{ post.content }}
+    <small>{{ post.content }}</small>
     <hr>
 </article>
 {% endfor %}

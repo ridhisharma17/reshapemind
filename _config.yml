@@ -12,14 +12,9 @@ linkedin_username: reshapemind
 collections:
   trainings:
     output: true
-    order:
-      - happiness.md
-      - goal-setting.md
-      - hooponopono.md
-      - gender-sensitization.md
-      - diversity-inclusion.md
-      - posh.md
   events:
+    output: true
+  testimonials:
     output: true
 
 # Build settings

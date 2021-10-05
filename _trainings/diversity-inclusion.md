@@ -1,5 +1,6 @@
 ---
 title: "Diversity and Inclusion"
+order: 2
 ---
 
 With the organization sizes increasing by each passing day, **Diversity** training becomes very important to make people aware and respect the varied diversity of people working in a organization. Lack of such awareness often creates unhealthy working space where a minority group with in an organization might feel **"unincluded"**.  
