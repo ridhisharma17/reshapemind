@@ -3,7 +3,7 @@ author: Tushar Sachdeva
 designation: Content Editor
 college: IPU
 workshop: Happiness Workshop
-order: 2
+order: 3
 ---
 I came across this through a former colleague and he spoke highly of her. I understood I was into something serious just after a few minutes into session 1.
 <br>

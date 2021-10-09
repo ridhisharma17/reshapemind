@@ -11,7 +11,7 @@ We provide trainings and  workshops in the following fields:
 {% for post in trainings %}
 <article class="post-preview">
   <a><h5 class="post-title">{{ post.title }}</h5></a>
-    <small>{{ post.content }}</small>
+    {{ post.content }}
     <hr>
 </article>
 {% endfor %}

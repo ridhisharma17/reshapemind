@@ -32,7 +32,7 @@ We pledge to:
 {% for post in testimonials %}
   <article class="post-preview">
   <a><b>{{ post.author }} | {{ post.designation }} | {{ post.college }}</b></a>
-  <small>{{ post.content }}</small>
+  {{ post.content }}
   <p class="post-meta">Attended <b>{{ post.workshop }}</b></p>
   <hr>
   </article>

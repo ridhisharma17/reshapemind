@@ -3,7 +3,8 @@ layout: page
 background: '/img/bg-post.png'
 ---
 
-{% for post in site.posts %}
+{% assign posts = site.posts | sort: "order" %}
+{% for post in posts %}
 
 <article class="post-preview">
   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
@@ -14,12 +15,7 @@ background: '/img/bg-post.png'
     <h6 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h6>
     {% endif %}
   </a>
-  <p class="post-meta">Posted by
-    {% if post.author %}
-    {{ post.author }}
-    {% else %}
-    {{ site.author }}
-    {% endif %}
+  <p class="post-meta">Posted by {{ post.author }}
     on {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}
   </p>
 </article>
